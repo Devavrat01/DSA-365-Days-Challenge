@@ -24,8 +24,10 @@ To strengthen problem-solving skills by solving at least 1-2 DSA problems daily 
 | 2025-07-21 | All_Fascenating_Number_1_to_N    | Math       | Java     | [Code](./Date_21_07_25_Day_3/All_Fascenating_Numbere__1_to_N  ) |
 | 2025-07-22 | All_Disurium_Number B/w_1_To_N   | Math       | Java     | [Code](./Date_22_07_25_Day_4/All_Sunny_Number_1_to_N)           
 | 2025-07-22 | All_Pronic_Number_1_to_N         | Math       | Java     | [Code](./Date_22_07_25_Day_4/All_Fascenating_Numbere__1_to_N  ) |
-| 2025-07-23 | All_Trimorphic_Number B/w_1_To_N | Math       | Java     | [Code](./Date_22_07_25_Day_5/All_Trimorphic_Number_1_to_N)      
-| 2025-07-23 | All_Evil_Number_1_to_N           | Math       | Java     | [Code](./Date_22_07_25_Day_5/All_Evil_Numbere__1_to_N  )        |
+| 2025-07-23 | All_Trimorphic_Number B/w_1_To_N | Math       | Java     | [Code](./Date_23_07_25_Day_5/All_Trimorphic_Number_1_to_N)      
+| 2025-07-23 | All_Evil_Number_1_to_N           | Math       | Java     | [Code](./Date_23_07_25_Day_5/All_Evil_Numbere__1_to_N  )        |
+| 2025-07-24 | Floyd Triangle                   | Math       | Java     | [Code](./Date_24_07_25_Day_6/Floyd Triangle)                    
+| 2025-07-24 | Reverse Number                   | Math       | Java     | [Code](./Date_24_07_25_Day_6/Reverse Number )                   |
 > Progress will be updated daily. Stay tuned 💻
 
 ---
