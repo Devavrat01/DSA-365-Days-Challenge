@@ -28,6 +28,8 @@ To strengthen problem-solving skills by solving at least 1-2 DSA problems daily 
 | 2025-07-23 | All_Evil_Number_1_to_N           | Math       | Java     | [Code](./Date_23_07_25_Day_5/All_Evil_Numbere__1_to_N  )        |
 | 2025-07-24 | Floyd Triangle                   | Math       | Java     | [Code](./Date_24_07_25_Day_6/Floyd Triangle)                    
 | 2025-07-24 | Reverse Number                   | Math       | Java     | [Code](./Date_24_07_25_Day_6/Reverse Number )                   |
+| 2025-07-25 | Sum Of Digit                     | Math       | Java     | [Code](./Date_25_07_25_Day_7/Floyd Triangle)                    
+| 2025-07-25 | Power Of Given Number            | Math       | Java     | [Code](./Date_25_07_25_Day_7/Reverse Number )                   |
 > Progress will be updated daily. Stay tuned 💻
 
 ---
