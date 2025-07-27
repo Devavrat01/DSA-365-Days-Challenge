@@ -30,8 +30,8 @@ To strengthen problem-solving skills by solving at least 1-2 DSA problems daily 
 | 2025-07-24 | Reverse Number                   | Math       | Java     | [Code](./Date_24_07_25_Day_6/Reverse Number )     |
 | 2025-07-25 | Sum Of Digit                     | Math       | Java     | [Code](./Date_25_07_25_Day_7/Floyd Triangle)      
 | 2025-07-25 | Power Of Given Number            | Math       | Java     | [Code](./Date_25_07_25_Day_7/Reverse Number )     |
-| 2025-07-26 | Count the Digit in a Number      | Math       | Java     | [Code](./Date_26_07_25_Day_8/Count the Digit in a Number )      
-| 2025-07-26 | Random Number Generator          | Math       | Java     | [Code](./Date_26_07_25_Day_8/Random Number Generator  )                   |
+| 2026-07-25 | Count the Digit in a Number      | Math       | Java     | [Code](./Date_26_07_25_Day_8/Count the Digit in a Number )      
+| 2026-07-25 | Random Number Generator          | Math       | Java     | [Code](./Date_26_07_25_Day_8/Random Number Generator  )                   |
 > Progress will be updated daily. Stay tuned 💻
 
 ---
